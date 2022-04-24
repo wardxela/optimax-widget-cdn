@@ -1,5 +1,4 @@
-// const ROOT = 'https://wardxela.github.io/optimax-widget-cdn/';
-const ROOT = 'http://127.0.0.1:5500/';
+const ROOT = 'https://wardxela.github.io/optimax-widget-cdn/';
 
 const GOOGLE_API = 'https://fonts.googleapis.com';
 const GOOGLE_STATIC = 'https://fonts.gstatic.com';
